@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="mFz8KrbyOnC0ri2CA_Pu">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1wOjwGp1O1FMIFCHyROY-4" edge="1" parent="1" source="1wOjwGp1O1FMIFCHyROY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="1wOjwGp1O1FMIFCHyROY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1wOjwGp1O1FMIFCHyROY-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="330" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1wOjwGp1O1FMIFCHyROY-7" edge="1" parent="1" source="1wOjwGp1O1FMIFCHyROY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1wOjwGp1O1FMIFCHyROY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1wOjwGp1O1FMIFCHyROY-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="ler P1,P2,P3,P4" vertex="1">
+          <mxGeometry height="70" width="180" x="300" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="1wOjwGp1O1FMIFCHyROY-9" edge="1" parent="1" source="1wOjwGp1O1FMIFCHyROY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1wOjwGp1O1FMIFCHyROY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1wOjwGp1O1FMIFCHyROY-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&quot;Media&quot;&lt;div&gt;(P1+P2+P3+P4)/4&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="1wOjwGp1O1FMIFCHyROY-11" edge="1" parent="1" source="1wOjwGp1O1FMIFCHyROY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1wOjwGp1O1FMIFCHyROY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1wOjwGp1O1FMIFCHyROY-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Escrever&quot;Media&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="1wOjwGp1O1FMIFCHyROY-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="Fim" vertex="1">
+          <mxGeometry height="80" width="120" x="330" y="600" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
